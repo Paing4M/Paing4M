@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://tailwindui.com" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="tailwind" width="40" height="40" />
+    <img src="[https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png](https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png)" alt="tailwind" width="40" height="40" />
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
