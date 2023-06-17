@@ -3,7 +3,7 @@
   
 <h1 align="center">Hi 👋, I'm Paing4M</h1>
 <h3 align="center">A junior web developer specializing in Laravel framework and actively searching for job opportunities</h3>
-<img width="300" align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="code">
+<img  style="border-radius: 20px;" width="300" align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="code">
 
 - 🌱 I’m currently learning **laravel**
 
