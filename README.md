@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Passionate Junior Web Developer | Laravel Enthusiast | Building a Bright Future in Web Development</p>
+<p align="center">Curious and Creative Web Developer | Exploring Innovative Web Technologies</p>
 
 ###
 
