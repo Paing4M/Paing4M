@@ -6,7 +6,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -36,7 +36,8 @@
 
 ###
 
-<img align="right" height="119" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47y4gg7c3coytcnj98kayn1o9y4c3vvz9dt94f0oze&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<br clear="both">
+
 
 ###
 
