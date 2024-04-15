@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Paing4M7/Paing4M/output/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Paing4M/Paing4M/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
