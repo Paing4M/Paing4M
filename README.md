@@ -26,18 +26,22 @@ Passionate Junior Web Developer | Laravel Enthusiast | Building a Bright Future 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Paing4M"><img src="https://github-readme-stats.vercel.app/api?username=Paing4M&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Paing4M's GitHub stats" /></a>
 
-<a href="http://www.github.com/Paing4M"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Paing4M&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ 
+  <a href="https://github.com/Paing4M">
+    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paing4M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+  </a>
+<br /><br />
+ <a href="http://www.github.com/Paing4M">
+    <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Paing4M&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  <br /><br />
+
 
 <a href="http://www.github.com/Paing4M"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Paing4M&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Paing4M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paing4M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paing4M)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Paing4M/social_media_web_frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paing4M&repo=social_media_web_frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Paing4M/next-soundtrack" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paing4M&repo=next-soundtrack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Paing4M/MySocial" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Paing4M&repo=MySocial&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
