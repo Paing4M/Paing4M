@@ -39,13 +39,12 @@ Exploring the world of web development.
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paing4M)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   <a href="https://github.com/Paing4M">
     <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paing4M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
   </a>
-
-<br /> <br />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Paing4M)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
