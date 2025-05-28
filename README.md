@@ -6,7 +6,7 @@ Web Developer
 Exploring the world of web development.
 * 🌍  I'm based in Myanmar (Burma)
 * ✉️  You can contact me at [paing1929@gmail.com](mailto:paing1929@gmail.com)
-// * 🧠  I'm learning Three Js
+  
 
   
 ### Socials
