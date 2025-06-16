@@ -41,7 +41,7 @@ Exploring the world of web development.
 
 
   <a href="https://github.com/Paing4M">
-    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paing4M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
+    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paing4M&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
   </a>
 
 <br />
